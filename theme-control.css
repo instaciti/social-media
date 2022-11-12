@@ -1,0 +1,117 @@
+/* Theme Controls Starts */
+
+body {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: var(--Font_One) !important;
+}
+
+.primaryColor {
+    color: var(--Primary_Color) !important;
+}
+
+.primaryColor a {
+    color: var(--Primary_Color) !important;
+}
+
+.framePrimaryColor {
+    color: var(--Primary_Color) !important;
+}
+
+.framePrimaryColor path {
+    fill: var(--Primary_Color) !important;
+}
+
+.primaryBgColor {
+    background-color: var(--Primary_BGColor) !important;
+}
+
+.secondaryColor {
+    color: var(--Primary_Color) !important;
+}
+
+.secondaryColor a {
+    color: var(--Primary_Color) !important;
+}
+
+.secondaryBgColor {
+    background-color: var(--Secondary_BGColor) !important;
+}
+
+.headingColor {
+    color: var(--Heading_Color) !important;
+}
+
+.headingColor a {
+    color: var(--Heading_Color) !important;
+}
+
+.linkColor {
+    color: var(--Link_Color) !important;
+}
+
+.linkColor a {
+    color: var(--Link_Color) !important;
+}
+
+.iconColor {
+    color: var(--Icon_Color) !important;
+}
+
+.iconColor a {
+    color: var(--Icon_Color) !important;
+}
+
+.borderColor {
+    border-color: var(--Primary_Color) !important;
+}
+
+a {
+    color: var(--Primary_Color) !important;
+}
+
+.paragraphColor {
+    color: var(--Paragraph_Color) !important;
+}
+
+.offerBg {
+    background-color: var(--Secondary_BtnBgColor) !important;
+}
+
+.secondaryBtnBgColor {
+    background-color: var(--Secondary_BtnBgColor) !important;
+}
+
+.HdrCTA1BG {
+    background-color: var(--HdrCTA1BG) !important;
+}
+
+.HdrCTA2BG {
+    background-color: var(--HdrCTA2BG) !important;
+}
+
+.HdrCTA3BG {
+    background-color: var(--HdrCTA3BG) !important;
+}
+
+.HdrCTA1Text {
+    color: var(--HdrCTA1Text) !important;
+}
+
+.HdrCTA2Text {
+    color: var(--HdrCTA2Text) !important;
+}
+
+.HdrCTA3Text {
+    color: var(--HdrCTA3Text) !important;
+}
+
+.instaPrimaryColor {
+    color: var(--Primary_Color);
+}
+
+.instaPrimaryBgColor {
+    background-color: var(--Primary_BGColor);
+}
+
+/* Theme Controls Ends Here */
